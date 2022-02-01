@@ -1,0 +1,34 @@
+.mission {
+  display: flex;
+  margin-top: 50px;
+  position: absolute;
+}
+
+.mission .mission-left {
+  background: rgb(22, 21, 21);
+  height: 70vh;
+}
+
+.mission-left .img {
+  background: url("../assists/images/leionblue\ 2.png");
+  width: 100%;
+  height: 50vh;
+  background-repeat: no-repeat;
+  position: relative;
+  top: 100px;
+  right: 60px;
+}
+
+.mission-left .statements {
+  width: 80%;
+  color: white;
+  position: relative;
+  bottom: 250px;
+  left: 20px;
+  margin: auto;
+  text-align: center;
+}
+
+.objective-statement {
+  margin-top: 30px;
+}

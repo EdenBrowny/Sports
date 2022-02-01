@@ -1,0 +1,21 @@
+.vision {
+  margin: 40%;
+  margin-left: 10%;
+  justify-content: center;
+  overflow-x: none;
+  overflow-y: none;
+}
+
+.vision-img img {
+  justify-content: center;
+  align-items: center;
+}
+
+.football {
+  background: url(../assists/images/football.png);
+  background-repeat: no-repeat;
+}
+
+.vision-head {
+  text-align: center;
+}

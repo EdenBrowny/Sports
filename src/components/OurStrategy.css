@@ -1,0 +1,9 @@
+.Strategy {
+  /* display: inline-block; */
+}
+
+.field {
+  background: url(../assists/images/field.png);
+  height: 50vh;
+  background-repeat: no-repeat;
+}
